@@ -3,6 +3,4 @@
 int main() {
 	account a;
 	a.run();
-	getchar();
-	getchar();
 }
